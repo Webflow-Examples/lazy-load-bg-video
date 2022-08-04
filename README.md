@@ -32,6 +32,10 @@ Now we need to modify the code a little bit so paste this into an IDE, a Webflow
 
 On the video element we'll add a `class="lazy` and `preload="none"`. Then on the sources inside it, we'll change the `src` of the video to `data-src` and add `type="video/mp4"`. Of course you'll want the type to match, so set `webm` for WebM videos or `ogg` for OGG files.
 
+You can see the diff between what we copied and what was changed here:
+
+https://github.com/Webflow-Examples/lazy-load-bg-video/commit/e2fc3fe889ffd7b80b4697f353ba330bfac97124
+
 Once you have that copy the code and go to the page in Webflow where you want the background video element to live and add a `Embed` block to your canvas. Now paste in the code.
 
 ### The JavaScript
