@@ -6,6 +6,10 @@ Clone an example site from Made in Webflow:
 
 https://webflow.com/made-in-webflow/website/background-vid-test
 
+Watch an overview of this on Loom:
+
+https://www.loom.com/share/c85843cca2224fbabb69976e79296a68
+
 ## vanilla-lazyload
 
 [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) is a super lightweight JavaScript library to help lazy load videos using the Intersection Observer API (which isn't compatible with [older browsers](https://caniuse.com/?search=intersectionObserver)).
